@@ -8,7 +8,7 @@ function Footer() {
         <div className="author">
           <p>
             Created by{" "}
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/alka-b09638229/" target="_blank" rel="noopener noreferrer">
               Alka
             </a>{" "}
             with <i className="far fa-heart"></i>
