@@ -19,7 +19,7 @@ function ProjectBox(props) {
         <a href={props.link} target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i>
         </a>
-        <a href={props.link} target="_blank" rel="noopener noreferrer">
+        <a href={props.link2} target="_blank" rel="noopener noreferrer">
           <i class="fa-solid fa-link"></i>
         </a>
       </div>
