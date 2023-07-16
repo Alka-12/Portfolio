@@ -32,7 +32,7 @@ function Project() {
               title="Portfolio"
               img={img6}
               link="https://github.com/Alka-12/Portfolio"
-              link2=""
+              link2="https://alkaportfolio.netlify.app/"
             />
             <ProjectBox
               title="AMB Engineers Website"
