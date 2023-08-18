@@ -1,0 +1,26 @@
+.project .projectbox {
+  margin: 0.5rem;
+  border: 2px solid var(--black-body);
+}
+.project .projectbox img {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+.project .projectbox .details {
+  border-left: 2px solid var(--aqua);
+  border-right: 2px solid var(--aqua);
+  border-bottom: 2px solid var(--aqua);
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  display: flex;
+}
+
+.project .projectbox p {
+  color: var(--white);
+  font-size: 1rem;
+  font-weight: bold;
+  margin: auto;
+  padding-left: 12px;
+}

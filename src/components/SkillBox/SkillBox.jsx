@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProjectBox.css";
+import "./SkillBox.css";
 
 import { useEffect } from "react";
 import Aos from "aos";
@@ -8,7 +8,7 @@ import "aos/dist/aos.css";
 function ProjectBox(props) {
   useEffect(() => {
     Aos.init({
-      duration: 1000,
+      duration: 500,
     });
   }, []);
   return (
@@ -16,12 +16,6 @@ function ProjectBox(props) {
       <img src={props.img} alt="images" />
       <div className="details">
         <p>{props.title}</p>
-        <a href={props.link} target="_blank" rel="noopener noreferrer">
-          <i className="fab fa-github"></i>
-        </a>
-        <a href={props.link2} target="_blank" rel="noopener noreferrer">
-          <i class="fa-solid fa-link"></i>
-        </a>
       </div>
     </div>
   );

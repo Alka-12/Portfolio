@@ -18,7 +18,7 @@ function Contact() {
             animation="fade-left"
             class="fab fa-linkedin"
             name="Linkedin"
-            link="https://www.linkedin.com/in/alka-b09638229"
+            link="https://www.linkedin.com/in/alka-alka"
           />
           <ContactBox
             animation="fade-up"
