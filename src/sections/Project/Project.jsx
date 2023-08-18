@@ -34,14 +34,12 @@ function Project() {
               link="https://github.com/Alka-12/Portfolio"
               link2="https://alkaportfolio.netlify.app/"
             />
-
             {/* <ProjectBox
               title="AMB Engineers Website"
               img={img5}
               link="https://github.com/Alka-12/AMB-Engineers"
               link2=""
             /> */}
-
             <ProjectBox
               title="American Sign Language Recognition"
               img={img3}
