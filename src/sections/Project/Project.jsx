@@ -6,7 +6,6 @@ import "aos/dist/aos.css";
 
 import ProjectBox from "../../components/ProjectBox/ProjectBox";
 import img7 from "../../images/SnakeTic.png";
-import img5 from "../../images/deepfake.png";
 import img3 from "../../images/sign-language.jpg";
 import img6 from "../../images/Portfolio.png";
 
