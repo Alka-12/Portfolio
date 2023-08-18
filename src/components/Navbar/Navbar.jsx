@@ -74,6 +74,17 @@ function Navbar() {
             </li>
             <li>
               <Link
+                to="Skill"
+                activeClass="active"
+                offset={-100}
+                spy={true}
+                onClick={navclose}
+              >
+                <i className="fas fa-archive"></i>Skills
+              </Link>
+            </li>
+            <li>
+              <Link
                 to="Project"
                 activeClass="active"
                 offset={-100}
