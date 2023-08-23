@@ -13,6 +13,7 @@ import img5 from "../../images/html.jpg";
 import img6 from "../../images/css.avif";
 import img7 from "../../images/bootstrap.jpg";
 import img8 from "../../images/JavaScript.png";
+import img9 from "../../images/react.png";
 
 function Skills() {
   useEffect(() => {
@@ -28,6 +29,7 @@ function Skills() {
           <div className="carousel owl-carousel">
             <SkillBox title="Java" img={img1} />
             <SkillBox title="Python" img={img2} />
+            <SkillBox title="React.js" img={img9} />
             <SkillBox title="Javacript" img={img8} />
             <SkillBox title="HTML" img={img5} />
             <SkillBox title="CSS" img={img6} />
