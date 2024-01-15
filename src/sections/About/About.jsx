@@ -5,7 +5,7 @@ import Aos from "aos";
 import { useEffect } from "react";
 import "aos/dist/aos.css";
 
-import img9 from "../../images/about_page.jpg";
+import img9 from "../../images/Alka2.jpg";
 
 function About() {
   useEffect(() => {
