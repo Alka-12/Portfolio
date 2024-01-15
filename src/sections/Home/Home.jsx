@@ -27,7 +27,7 @@ function Home() {
               and I'm a <span className="typing"></span>
             </h2>
             <a
-              href="https://drive.google.com/file/d/1JMis7dutjTad4dxzmzn7Yu5CifqN7vpJ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1fTLwSL0YDB4HZ1KUnIe4pfKIEDcPDiKr/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
